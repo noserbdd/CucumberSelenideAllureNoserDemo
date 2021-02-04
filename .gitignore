@@ -1,0 +1,11 @@
+.idea
+*.iml
+*.ipr
+*.iws
+target
+build
+.allure
+allure-results
+/.classpath
+/debug.log
+/selenide-allure-junit/
