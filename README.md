@@ -6,10 +6,10 @@ Zum Einsatz kommt ausserdem
 ## Komponenten des Selenium Stacks
 
 Hauptbestandteile:
-* Fachliches Test Design: [Cucumber mit Gherkin] (https://cucumber.io/)
-* Technisches Test Design: [Selenium Framework, Flavor - Selenide] (https://selenide.org/)
+* Fachliches Test Design: [Cucumber mit Gherkin](https://cucumber.io/)
+* Technisches Test Design: [Selenium Framework, Flavor - Selenide](https://selenide.org/)
 * Test Ausführung: [Selenium Grid](https://jenkins.io/)
-* Test Infrastruktur: [localhost :), Docker] (https://www.docker.com/)
+* Test Infrastruktur: [localhost :), Docker](https://www.docker.com/)
 * Test Reports: [Allure](https://qameta.io/)
 
 Weitere Tools:
@@ -19,15 +19,15 @@ Weitere Tools:
 
 
 ## Application under Test
-
-Als Anwendungsbeispiel wird die Google Suche verwendet.
+Als zusätzliche Anwendungsbeispiel wird die Google Suche verwendet.
 
 
 ## Testausführung
 
-* Via Maven auf localhost
-* Via JUnit auf localhost
-* Via JUnit auf selenium Grid
+* Via Maven
+* Via JUnit
+**	auf localhost
+** auf selenium Grid
 
 Falls man gegen selenium Grid laufen lassen möchte, so können folgende Parameter in der 'Launch Configuration' angegeben werden:
 -Dselenide.browser=chrome -Dselenide.remote=http://localhost:4444/wd/hub
