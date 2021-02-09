@@ -1,6 +1,6 @@
 # Selenium Stack
 
-Basierend auf einer Kundenanfrage wurde Selenide (Framework um Selenium) mittels einer kleinen Demo vorbereitet
+Basierend auf einer Kundenanfrage wurde Selenide (Framework um Selenium - Ausgangspunkt Demoprojekt von Andrei Solntsev) mittels einer kleinen Demo vorbereitet
 Zum Einsatz kommt ausserdem 
 
 ## Komponenten des Selenium Stacks
